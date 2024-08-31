@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "B0wCyzRLpAEOcsgDKyCRsrxr6MeZiL14b087FPgEeug=",
+  "Source": "BookManagementBackendServer",
+  "BasePath": "_content/BookManagementBackendServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

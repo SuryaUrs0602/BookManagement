@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\surya.c.urs\\source\\repos\\BookManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B4C7A5F-F072-4610-B62F-C32CA755876C}|BookManagement\\BookManagementBackendServer.csproj|c:\\users\\surya.c.urs\\source\\repos\\bookmanagement\\bookmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B4C7A5F-F072-4610-B62F-C32CA755876C}|BookManagement\\BookManagementBackendServer.csproj|solutionrelative:bookmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B4C7A5F-F072-4610-B62F-C32CA755876C}|BookManagement\\BookManagementBackendServer.csproj|c:\\users\\surya.c.urs\\source\\repos\\bookmanagement\\bookmanagement\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B4C7A5F-F072-4610-B62F-C32CA755876C}|BookManagement\\BookManagementBackendServer.csproj|solutionrelative:bookmanagement\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B4C7A5F-F072-4610-B62F-C32CA755876C}|BookManagement\\BookManagementBackendServer.csproj|c:\\users\\surya.c.urs\\source\\repos\\bookmanagement\\bookmanagement\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B4C7A5F-F072-4610-B62F-C32CA755876C}|BookManagement\\BookManagementBackendServer.csproj|solutionrelative:bookmanagement\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B4C7A5F-F072-4610-B62F-C32CA755876C}|BookManagement\\BookManagementBackendServer.csproj|c:\\users\\surya.c.urs\\source\\repos\\bookmanagement\\bookmanagement\\repositories\\contracts\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B4C7A5F-F072-4610-B62F-C32CA755876C}|BookManagement\\BookManagementBackendServer.csproj|solutionrelative:bookmanagement\\repositories\\contracts\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B4C7A5F-F072-4610-B62F-C32CA755876C}|BookManagement\\BookManagementBackendServer.csproj|c:\\users\\surya.c.urs\\source\\repos\\bookmanagement\\bookmanagement\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B4C7A5F-F072-4610-B62F-C32CA755876C}|BookManagement\\BookManagementBackendServer.csproj|solutionrelative:bookmanagement\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B4C7A5F-F072-4610-B62F-C32CA755876C}|BookManagement\\BookManagementBackendServer.csproj|c:\\users\\surya.c.urs\\source\\repos\\bookmanagement\\bookmanagement\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B4C7A5F-F072-4610-B62F-C32CA755876C}|BookManagement\\BookManagementBackendServer.csproj|solutionrelative:bookmanagement\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B4C7A5F-F072-4610-B62F-C32CA755876C}|BookManagement\\BookManagementBackendServer.csproj|c:\\users\\surya.c.urs\\source\\repos\\bookmanagement\\bookmanagement\\exceptions\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B4C7A5F-F072-4610-B62F-C32CA755876C}|BookManagement\\BookManagementBackendServer.csproj|solutionrelative:bookmanagement\\exceptions\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B4C7A5F-F072-4610-B62F-C32CA755876C}|BookManagement\\BookManagementBackendServer.csproj|c:\\users\\surya.c.urs\\source\\repos\\bookmanagement\\bookmanagement\\services\\contracts\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B4C7A5F-F072-4610-B62F-C32CA755876C}|BookManagement\\BookManagementBackendServer.csproj|solutionrelative:bookmanagement\\services\\contracts\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B4C7A5F-F072-4610-B62F-C32CA755876C}|BookManagement\\BookManagementBackendServer.csproj|c:\\users\\surya.c.urs\\source\\repos\\bookmanagement\\bookmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1B4C7A5F-F072-4610-B62F-C32CA755876C}|BookManagement\\BookManagementBackendServer.csproj|solutionrelative:bookmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B4C7A5F-F072-4610-B62F-C32CA755876C}|BookManagement\\BookManagementBackendServer.csproj|c:\\users\\surya.c.urs\\source\\repos\\bookmanagement\\bookmanagement\\models\\bookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B4C7A5F-F072-4610-B62F-C32CA755876C}|BookManagement\\BookManagementBackendServer.csproj|solutionrelative:bookmanagement\\models\\bookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B4C7A5F-F072-4610-B62F-C32CA755876C}|BookManagement\\BookManagementBackendServer.csproj|c:\\users\\surya.c.urs\\source\\repos\\bookmanagement\\bookmanagement\\models\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B4C7A5F-F072-4610-B62F-C32CA755876C}|BookManagement\\BookManagementBackendServer.csproj|solutionrelative:bookmanagement\\models\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B4C7A5F-F072-4610-B62F-C32CA755876C}|BookManagement\\BookManagementBackendServer.csproj|c:\\users\\surya.c.urs\\source\\repos\\bookmanagement\\bookmanagement\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B4C7A5F-F072-4610-B62F-C32CA755876C}|BookManagement\\BookManagementBackendServer.csproj|solutionrelative:bookmanagement\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B4C7A5F-F072-4610-B62F-C32CA755876C}|BookManagement\\BookManagementBackendServer.csproj|c:\\users\\surya.c.urs\\source\\repos\\bookmanagement\\bookmanagement\\bookmanagementbackendserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1B4C7A5F-F072-4610-B62F-C32CA755876C}|BookManagement\\BookManagementBackendServer.csproj|solutionrelative:bookmanagement\\bookmanagementbackendserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B4C7A5F-F072-4610-B62F-C32CA755876C}|BookManagement\\BookManagementBackendServer.csproj|c:\\users\\surya.c.urs\\source\\repos\\bookmanagement\\bookmanagement\\migrations\\20240812063354_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B4C7A5F-F072-4610-B62F-C32CA755876C}|BookManagement\\BookManagementBackendServer.csproj|solutionrelative:bookmanagement\\migrations\\20240812063354_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\surya.c.urs\\source\\repos\\BookManagement\\BookManagement\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "BookManagement\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\surya.c.urs\\source\\repos\\BookManagement\\BookManagement\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "BookManagement\\Controllers\\BooksController.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAYwHUAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T06:14:20.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\surya.c.urs\\source\\repos\\BookManagement\\BookManagement\\Program.cs",
+              "RelativeDocumentMoniker": "BookManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\surya.c.urs\\source\\repos\\BookManagement\\BookManagement\\Program.cs",
+              "RelativeToolTip": "BookManagement\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T06:25:17.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DomainException.cs",
+              "DocumentMoniker": "C:\\Users\\surya.c.urs\\source\\repos\\BookManagement\\BookManagement\\Exceptions\\DomainException.cs",
+              "RelativeDocumentMoniker": "BookManagement\\Exceptions\\DomainException.cs",
+              "ToolTip": "C:\\Users\\surya.c.urs\\source\\repos\\BookManagement\\BookManagement\\Exceptions\\DomainException.cs",
+              "RelativeToolTip": "BookManagement\\Exceptions\\DomainException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T14:50:28.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\surya.c.urs\\source\\repos\\BookManagement\\BookManagement\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "BookManagement\\Repositories\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\surya.c.urs\\source\\repos\\BookManagement\\BookManagement\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "BookManagement\\Repositories\\BookRepository.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T06:34:30.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\surya.c.urs\\source\\repos\\BookManagement\\BookManagement\\Repositories\\Contracts\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "BookManagement\\Repositories\\Contracts\\IBookRepository.cs",
+              "ToolTip": "C:\\Users\\surya.c.urs\\source\\repos\\BookManagement\\BookManagement\\Repositories\\Contracts\\IBookRepository.cs",
+              "RelativeToolTip": "BookManagement\\Repositories\\Contracts\\IBookRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T06:35:18.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\surya.c.urs\\source\\repos\\BookManagement\\BookManagement\\Exceptions\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "BookManagement\\Exceptions\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\surya.c.urs\\source\\repos\\BookManagement\\BookManagement\\Exceptions\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "BookManagement\\Exceptions\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwBUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T14:54:14.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\surya.c.urs\\source\\repos\\BookManagement\\BookManagement\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "BookManagement\\Services\\BookService.cs",
+              "ToolTip": "C:\\Users\\surya.c.urs\\source\\repos\\BookManagement\\BookManagement\\Services\\BookService.cs",
+              "RelativeToolTip": "BookManagement\\Services\\BookService.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAowBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T06:09:16.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Users\\surya.c.urs\\source\\repos\\BookManagement\\BookManagement\\Services\\Contracts\\IBookService.cs",
+              "RelativeDocumentMoniker": "BookManagement\\Services\\Contracts\\IBookService.cs",
+              "ToolTip": "C:\\Users\\surya.c.urs\\source\\repos\\BookManagement\\BookManagement\\Services\\Contracts\\IBookService.cs",
+              "RelativeToolTip": "BookManagement\\Services\\Contracts\\IBookService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T06:07:39.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\surya.c.urs\\source\\repos\\BookManagement\\BookManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "BookManagement\\appsettings.json",
+              "ToolTip": "C:\\Users\\surya.c.urs\\source\\repos\\BookManagement\\BookManagement\\appsettings.json",
+              "RelativeToolTip": "BookManagement\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-19T04:22:49.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookDTO.cs",
+              "DocumentMoniker": "C:\\Users\\surya.c.urs\\source\\repos\\BookManagement\\BookManagement\\Models\\BookDTO.cs",
+              "RelativeDocumentMoniker": "BookManagement\\Models\\BookDTO.cs",
+              "ToolTip": "C:\\Users\\surya.c.urs\\source\\repos\\BookManagement\\BookManagement\\Models\\BookDTO.cs",
+              "RelativeToolTip": "BookManagement\\Models\\BookDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T06:18:59.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\surya.c.urs\\source\\repos\\BookManagement\\BookManagement\\Models\\BookDbContext.cs",
+              "RelativeDocumentMoniker": "BookManagement\\Models\\BookDbContext.cs",
+              "ToolTip": "C:\\Users\\surya.c.urs\\source\\repos\\BookManagement\\BookManagement\\Models\\BookDbContext.cs",
+              "RelativeToolTip": "BookManagement\\Models\\BookDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T06:23:02.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\surya.c.urs\\source\\repos\\BookManagement\\BookManagement\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "BookManagement\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\surya.c.urs\\source\\repos\\BookManagement\\BookManagement\\Models\\Book.cs",
+              "RelativeToolTip": "BookManagement\\Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T06:16:25.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BookManagementBackendServer.csproj",
+              "DocumentMoniker": "C:\\Users\\surya.c.urs\\source\\repos\\BookManagement\\BookManagement\\BookManagementBackendServer.csproj",
+              "RelativeDocumentMoniker": "BookManagement\\BookManagementBackendServer.csproj",
+              "ToolTip": "C:\\Users\\surya.c.urs\\source\\repos\\BookManagement\\BookManagement\\BookManagementBackendServer.csproj",
+              "RelativeToolTip": "BookManagement\\BookManagementBackendServer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-12T06:20:24.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240812063354_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\surya.c.urs\\source\\repos\\BookManagement\\BookManagement\\Migrations\\20240812063354_InitialCreate.cs",
+              "RelativeDocumentMoniker": "BookManagement\\Migrations\\20240812063354_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\surya.c.urs\\source\\repos\\BookManagement\\BookManagement\\Migrations\\20240812063354_InitialCreate.cs",
+              "RelativeToolTip": "BookManagement\\Migrations\\20240812063354_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T06:33:54.198Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
